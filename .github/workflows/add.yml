@@ -16,5 +16,5 @@ jobs:
    
     - run: docker build -t roshan602/next-js-app:04 .
     - run: echo "${{secrets.DOCKER_PASSWORD}}" | docker login -u "${{secrets.DOCKER_USERNAME}}"
-    - run: docker push roshan602/next-js-app:04
+    - run: docker push roshan602/next-js-app:04 .
   
