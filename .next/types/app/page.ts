@@ -1,4 +1,4 @@
-// File: /home/roshan/Desktop/2. Git Hub Action Perform/4. Git Code/app/page.js
+// File: /home/roshan/Desktop/2. Git Hub Action Perform/*. Git Code/app/page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
